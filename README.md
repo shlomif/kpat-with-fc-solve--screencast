@@ -1,32 +1,33 @@
 These are the sources for this screencast:
 
-- https://www.youtube.com/watch?v=t_cuDHj5V2k
+- FILL IN
 
-“PySolFC Solving a Black Hole Solitaire Deal”
+“KPatience Solving a FreeCell Deal Automatically”
 
 <blockquote>
 
-A demo of PySolFC ( http://pysolfc.sourceforge.net/ ) solving Black Hole
-Solitaire using the solver (
-http://www.shlomifish.org/open-source/projects/black-hole-solitaire-solver/ ).
+A demo of KPatience ( https://games.kde.org/game.php?game=kpat ) solving
+Freecell using the solver ( https://fc-solve.shlomifish.org/ ). While I
+prepared recordings of PySol, kpat seems to move the cards faster and may
+have a more attractive look.
 
 Here are the credits and attribution:
 
-The Xfce desktop environment (under GPLv2 and later and compatible licences - http://www.xfce.org/ ) running on top of Mageia Linux 7/Cauldron (under GPLv2/GPLv3 and other licences - http://www.mageia.org/ ) - BTW, PySolFC can run fine on Windows and macOS, so don't worry about it.
+The Xfce desktop environment (under GPLv2 and later and compatible licences - http://www.xfce.org/ ) running on top of Mageia Linux 7/Cauldron (under GPLv2/GPLv3 and other licences - http://www.mageia.org/ ).
 
-PySolFC 2.2.0, under GPLv3 and later - http://pysolfc.sourceforge.net/ .
+kpat-18.12.1-1.mga7 , under GPLv2 and later.
 
-Black Hole Solitaire Solver - http://www.shlomifish.org/open-source/projects/black-hole-solitaire-solver/ - under the MIT/X11 licence by Shlomi Fish and others (me).
+Freecell Solver - under the MIT/X11 licence by Shlomi Fish (me) and others.
 
-Background music is Gnarly ( https://www.youtube.com/watch?v=ruxmWBHCGn4 ) under CC-By by David Amber feat. Devyn Rush. Downloaded from https://www.jamendo.com/ and modified slightly using Audacity ( http://audacity.sourceforge.net/ ).
+Background music is https://soundcloud.com/punch-deck/organic-to-synthetic - Organic to Synthetic - under CC-By by Punch Deck (see https://www.reddit.com/r/gamedev/comments/9tu2s7/i_make_orchestral_electronic_music_that_im_giving/ ). Modified slightly using Audacity ( http://audacity.sourceforge.net/ ).
 
-Background for the desktop is http://www.shlomifish.org/Files/files/images/IMG_2179.jpg under CC-By by me.
+Background for the desktop is https://www.flickr.com/photos/adikarla/14650759294/ - a photo of a Hoopoe under CC-By by Sai Adikarla ( https://www.flickr.com/photos/adikarla/ )
 
 Other programs used in the creation of this video were http://www.maartenbaert.be/simplescreenrecorder/ , GVim ( http://www.vim.org/ ), ffmpeg
 ( http://ffmpeg.org/ ), Bash, Konsole and VLC. Some help for ffmpeg was provided on #ffmpeg on Freenode (thanks!).
 
-Update: here are some links related to the preparation of this video:
+Here are some links related to the preparation of this video:
 
-* https://github.com/shlomif/pysolfc-black-hole-solver--screencast - sources for some of the stuff (video + audio + mixing script).
+* https://github.com/shlomif/kpat-with-fc-solve--screencast - sources for some of the stuff (video + audio + mixing script).
 
 </blockquote>
