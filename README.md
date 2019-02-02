@@ -1,6 +1,6 @@
 These are the sources for this screencast:
 
-- FILL IN
+- https://www.youtube.com/watch?v=K-AU6yiV0FM
 
 “KPatience Solving a FreeCell Deal Automatically”
 
